@@ -1,0 +1,141 @@
+{
+  "@@last_modified": "2021-07-11T20:51:45.780354",
+  "title": "Farmi Assist",
+  "@title": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "greeting": "Welcome",
+  "@greeting": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter": "Enter Your Problem",
+  "@enter": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "Submit",
+  "@submit": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "erase": "Erase",
+  "@erase": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "help": "Help",
+  "@help": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "exit": "Exit App",
+  "@exit": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "Language",
+  "@language": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "querey": "Ask Querey",
+  "@querey": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "library": "Agri-Library",
+  "@library": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "use": "How to use Application",
+  "@use": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "about": "About Us",
+  "@about": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "close": "Close",
+  "@close": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "result": "Result",
+  "@result": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "helpdata": "Enter the query in the text field. Seperate multiple queries with full stops. Tap on the mic for voice input. Tap in the speaker icon to narrate. Tap on the green button to get results, red to delete whole query, grey to close the app.",
+  "@helpdata": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "moto": "extending our hand to help",
+  "@moto": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "shreya": "Shreya Patil",
+  "@shreya": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pratik": "Pratik Patil",
+  "@pratik": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "jyoti": "Jyoti Poddar",
+  "@jyoti": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sd": "Software Developer",
+  "@sd": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "git": "Git Repository",
+  "@git": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tf": "Press button to start speaking",
+  "@tf": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pb": "Please tell us your problem",
+  "@pb": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  }
+}

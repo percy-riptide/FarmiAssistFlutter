@@ -1,0 +1,142 @@
+{
+  "@@locale": "hi",
+  "@@last_modified": "2021-07-06T13:16:19.947754",
+  "title": "फार्मी असिस्ट",
+  "@title": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "greeting": "स्वागत हे",
+  "@greeting": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter": "अपनी समस्या दर्ज करें",
+  "@enter": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "प्रस्तुत",
+  "@submit": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "erase": "मिटाएं",
+  "@erase": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "help": "मदद",
+  "@help": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "exit": "बाहर जाएं",
+  "@exit": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "भाषा",
+  "@language": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "querey": "प्रश्न पूछें",
+  "@querey": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "library": "कृषि पुस्तकालय",
+  "@library": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "use": "एप्लिकेशन का उपयोग कैसे करें",
+  "@use": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "about": "हमारे बारे में",
+  "@about": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "close": "बंद करे",
+  "@close": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "result": "परिणाम",
+  "@result": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "helpdata": "टेक्स्ट फ़ील्ड में क्वेरी दर्ज करें। कई प्रश्नों को पूर्ण विराम के साथ अलग करें। वॉयस इनपुट के लिए माइक पर टैप करें। वर्णन करने के लिए स्पीकर आइकन में टैप करें। परिणाम प्राप्त करने के लिए हरे बटन पर टैप करें, पूरी क्वेरी को हटाने के लिए लाल, ऐप को बंद करने के लिए ग्रे पर टैप करें।",
+  "@helpdata": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "moto": "मदद के लिए हाथ बढ़ा रहे हैं",
+  "@moto": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "shreya": "श्रेया पाटिल",
+  "@shreya": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pratik": "प्रतीक पाटिल",
+  "@pratik": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "jyoti": "ज्योति पोद्दार",
+  "@jyoti": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sd": "सॉफ्टवेयर डेवलपर",
+  "@sd": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "git": "गिट रिपोजिटरी",
+  "@git": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tf": "बोलना शुरू करने के लिए बटन दबाएं",
+  "@tf": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pb": "कृपया हमें अपनी समस्या बताएं",
+  "@pb": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  }
+}

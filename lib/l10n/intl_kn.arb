@@ -1,0 +1,142 @@
+{
+  "@@locale": "kn",
+  "@@last_modified": "2021-07-06T13:16:19.947754",
+  "title": "ಫಾರ್ಮಿ ಅಸಿಸ್ಟ್",
+  "@title": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "greeting": "ಸ್ವಾಗತ",
+  "@greeting": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter": "ನಿಮ್ಮ ಸಮಸ್ಯೆಯನ್ನು ನಮೂದಿಸಿ",
+  "@enter": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "ಸಲ್ಲಿಸು",
+  "@submit": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "erase": "ಅಳಿಸಿಹಾಕು",
+  "@erase": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "help": "ಸಹಾಯ",
+  "@help": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "exit": "ನಿರ್ಗಮನ",
+  "@exit": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "ಭಾಷೆ",
+  "@language": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "querey": "ಪ್ರಶ್ನೆಯನ್ನು ಕೇಳಿ",
+  "@querey": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "library": "ಕೃಷಿ ಗ್ರಂಥಾಲಯ",
+  "@library": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "use": "ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಹೇಗೆ ಬಳಸುವುದು",
+  "@use": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "about": "ನಮ್ಮ ಬಗ್ಗೆ",
+  "@about": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "close": "ಮುಚ್ಚಿ",
+  "@close": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "result": "ಫಲಿತಾಂಶ",
+  "@result": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "helpdata": "ಪಠ್ಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪ್ರಶ್ನೆಯನ್ನು ನಮೂದಿಸಿ. ಪೂರ್ಣ ನಿಲುಗಡೆಗಳೊಂದಿಗೆ ಬಹು ಪ್ರಶ್ನೆಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸಿ. ಧ್ವನಿ ಇನ್\u200Cಪುಟ್\u200Cಗಾಗಿ ಮೈಕ್\u200Cನಲ್ಲಿ ಟ್ಯಾಪ್ ಮಾಡಿ. ನಿರೂಪಿಸಲು ಸ್ಪೀಕರ್ ಐಕಾನ್\u200Cನಲ್ಲಿ ಟ್ಯಾಪ್ ಮಾಡಿ. ಫಲಿತಾಂಶಗಳನ್ನು ಪಡೆಯಲು ಹಸಿರು ಬಟನ್ ಮೇಲೆ ಟ್ಯಾಪ್ ಮಾಡಿ, ಸಂಪೂರ್ಣ ಪ್ರಶ್ನೆಯನ್ನು ಅಳಿಸಲು ಕೆಂಪು, ಅಪ್ಲಿಕೇಶನ್ ಮುಚ್ಚಲು ಬೂದು.",
+  "@helpdata": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "moto": "ಸಹಾಯ ಮಾಡಲು ನಮ್ಮ ಕೈಯನ್ನು ವಿಸ್ತರಿಸುವುದು",
+  "@moto": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "shreya": "ಶ್ರೇಯಾ ಪಾಟೀಲ್",
+  "@shreya": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pratik": "ಪ್ರತೀಕ್ ಪಾಟೀಲ್",
+  "@pratik": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "jyoti": "ಜ್ಯೋತಿ ಪೋದ್ದಾರ್",
+  "@jyoti": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sd": "ಸಾಫ್ಟ್ವೇರ್ ಡೆವಲಪರ್",
+  "@sd": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "git": "ಜಿಟ್ ರೆಪೊಸಿಟರಿ",
+  "@git": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tf": "ಮಾತನಾಡಲು ಪ್ರಾರಂಭಿಸಲು ಬಟನ್ ಒತ್ತಿರಿ",
+  "@tf": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pb": "ದಯವಿಟ್ಟು ನಿಮ್ಮ ಸಮಸ್ಯೆಯನ್ನು ನಮಗೆ ತಿಳಿಸಿ",
+  "@pb": {
+    "description": "App name ",
+    "type": "text",
+    "placeholders": {}
+  }
+}
